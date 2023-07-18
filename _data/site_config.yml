@@ -225,7 +225,7 @@ reporting_status:
       label: status.not_applicable
       hide_on_goal_pages: false
 repository_url_data: 'https://github.com/rde-hmuklv/data-test'
-repository_url_site: 'https://github.com/rde-hmuklv/site'
+repository_url_site: 'https://github.com/rde-hmuklv/site-test'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
