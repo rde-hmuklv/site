@@ -209,7 +209,7 @@ progress_status:
   status_heading: ''
   status_help: ''
   status_types: []
-remote_data_prefix: 'https://rde-hmuklv.github.io/data/'
+remote_data_prefix: 'https://rde-hmuklv.github.io/data-test/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -224,7 +224,7 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/rde-hmuklv/data'
+repository_url_data: 'https://github.com/rde-hmuklv/data-test'
 repository_url_site: 'https://github.com/rde-hmuklv/site'
 search_index_boost: []
 search_index_extra_fields: []
