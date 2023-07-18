@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: test@umwelt.hessen.de
+  suggestions: test@umwelt.hessen.de
+  functional: test@umwelt.hessen.de
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
