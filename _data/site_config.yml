@@ -23,7 +23,7 @@ cookie_consent_form:
   enabled: false
 country:
   name: Hessen
-  adjective: Hessisch
+  adjective: Hessische
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
